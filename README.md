@@ -1,8 +1,8 @@
 # hasmukar
 
-1. basic calculator
+1. Basic calculator
 can sum,del,multiply,sub
-2. bmi calculator
+2. Bmi calculator
 can give your bmi w several mesures
 3. Scientific calculator
 Solve complex mathematical equations involving trigonometry, logarithms, exponents, etc.
